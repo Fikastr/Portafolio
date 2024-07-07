@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="US-ASCII">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Logo Pequeño</title>
+</head>
+<body>
+    <h1>Mi Página Web</h1>
+    <p>Aquí está mi logo pequeño:</p>
+    <img src="Portafolio/Imágenes/miscelanea.png" alt="Logo de mi sitio" width="100">
+</body>
+</html>
